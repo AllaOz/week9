@@ -6,8 +6,11 @@
    console.log(message);
 3. 7
 4. alert (` hello ${1}` ); // hello 1
+
    alert (` hello ${"name"}` ); // hello name
+   
    alert (` hello ${name}` );// hello Ilya
+   
 5. внутри тега <script></script> перед закрывающим </body> или в <head>
    через внешний файл <script src=”путь к файлу/script.js”> </script>
 6. typeof str – cинтаксис оператора, typeof(str) – синтаксис функции результат одинаковый
